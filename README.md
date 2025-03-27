@@ -12,7 +12,9 @@ I am currently trying to learn many different language like Python, C, and C++ b
 ### Projects
 My current projects arent anything to brag about but its the basics and I hope to expand on from them to things like finances and stocks
 https://github.com/MarcusQuach07/ip-address-scanner-MarcusQuach07
+
 https://github.com/MarcusQuach07/port-scanner-MarcusQuach07
+
 https://github.com/MarcusQuach07/mac-address-changer-MarcusQuach07
 
 ### Ways to Reach Me
