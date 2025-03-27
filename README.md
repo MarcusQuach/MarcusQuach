@@ -25,4 +25,4 @@ https://github.com/MarcusQuach07/port-scanner-MarcusQuach07
 https://github.com/MarcusQuach07/mac-address-changer-MarcusQuach07
 
 ### Ways to Reach Me
-The best way to reach me currently is by connecting on **linkedin** and messaging me from there since I dont have a work phone or email to contact.
+The best way to reach me currently is by connecting on **Linkedin** and messaging me from there since I dont have a work phone or email to contact.
