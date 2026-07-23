@@ -1,22 +1,22 @@
 ## Hi there 👋
 
 ### Who Am I
-Im **Marcus**, and im a **college** student from Colorado, I recently just **started** coding and im learning so much from the classes im taking, I am currently taking computer science and cybersecurity courses at my college but I will be majorig in **Computer and Electrical Engineering** once I change my major.
+Im **Marcus**, and im a **college** student from Colorado, I recently just **started** coding and im learning so much from my classes currently, I am taking computer science courses at my college but I will be majoring in **Computer Science**.
 
 ---
 
 ### What I want to do
-I plan to start my career off with working in **data analytics** and **anything** that could do with **large sums** of **data** that involves **any** type of code. But eventually I plan to go back to college to get a certificate in **Quantitative Finance** to pursue my career in **Quantitative Developing**.
+I plan to start my career off with working in **Software Engineering** or **anything** that involves **any** type of code. But eventually I hope to try to break into **DevOps**.
 
 ---
 
 ### What Am I Learning
-I am currently trying to learn many different language like **Python**, **C**, and **C++** but I plan to **expand** on from the **backend** to **frontend** to be a **full stack developer**.
+I am currently trying to learn many different language like **Python**, and **C++** but I plan to **expand** on from the **backend** to **frontend** to be a **full stack developer**.
 
 ---
 
 ### Projects
-My current projects arent anything to brag about but its the basics and I hope to expand on from them to things like **finances** and **stocks**.
+My current projects arent anything to brag about but its the basics and I hope to expand on from them.
 
 https://github.com/MarcusQuach07/ip-address-scanner-MarcusQuach07
 
